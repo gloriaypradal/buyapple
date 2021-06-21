@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Buy Apple
 
-You can use the [editor on GitHub](https://github.com/gloriaypradal/buyapple/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Predicting Apple Stock Buying Action The following project intends to predict apple stock buying action based on prices predicted using different variables like: closest competitors stock prices, gold prices, crude oil prices, CPI and disney stock prices. The action predicted will be by day This project is made as a personal project to create an strategy for stock trading for the family and to complete the school work for the DSC680 All code is based on Jupyter Notebook and using Ptyhon as a main language
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Question: May I know when to buy or not in a future an Apple Stock, based prices of closest competitors, oil prices, gold process, temperature of the day and Disney stock price?
+My proposal consists of to analyze prices of the closest Apple Tech Competitors, like Samsung, Google, Dell and Microsoft, if these prices affect the Apple stock prices, can I predict Apple prices in the future? I will introduce some different features as temperature of the day for Florida, and Disney Stock Prices, is Disney is always on the race for latest technology, for Disney is more oriented to entertainment, however, I can’t imagine going to Disney without my iPhone, Air Pods and iWatch.
+Introducing some more economic indicators features, I will use gold prices and crude oil prices to predict apple stock prices.
+I am analyzing the possibility to add cryptocurrency like the Bitcoin into this list as a suggestion of one of my peers on the Teams channel.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## This is a Work in progress, I am starting to work in data collection and analysis
 
-# Header 1
-## Header 2
-### Header 3
+For more details please refer to my github repostory
 
-- Bulleted
-- List
+### References
 
-1. Numbered
-2. List
+[Yahoo Finance](https://finance.yahoo.com/)
+[MacroTrends](https://www.macrotrends.net/)
+[Kaggle](https://www.kaggle.com/search?q=janet+street)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Author
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gloriaypradal/buyapple/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Gloria Moore
