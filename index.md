@@ -1,11 +1,12 @@
 ## Buy Apple
 
-Predicting Apple Stock Buying Action The following project intends to predict apple stock buying action based on prices predicted using different variables like: closest competitors stock prices, gold prices, crude oil prices, CPI and disney stock prices. The action predicted will be by day This project is made as a personal project to create an strategy for stock trading for the family and to complete the school work for the DSC680 All code is based on Jupyter Notebook and using Ptyhon as a main language
 
-Question: May I know when to buy or not in a future an Apple Stock, based prices of closest competitors, oil prices, gold process, temperature of the day and Disney stock price?
-My proposal consists of to analyze prices of the closest Apple Tech Competitors, like Samsung, Google, Dell and Microsoft, if these prices affect the Apple stock prices, can I predict Apple prices in the future? I will introduce some different features as temperature of the day for Florida, and Disney Stock Prices, is Disney is always on the race for latest technology, for Disney is more oriented to entertainment, however, I can’t imagine going to Disney without my iPhone, Air Pods and iWatch.
-Introducing some more economic indicators features, I will use gold prices and crude oil prices to predict apple stock prices.
-I am analyzing the possibility to add cryptocurrency like the Bitcoin into this list as a suggestion of one of my peers on the Teams channel.
+The world’s economy is based on stock market trading actions, every day, every second of the day the stock market is changing, people is buying, selling, checking prices trends, making money, losing money, these actions affect the course of the world and people lives. For stockbrokers this is their entire life, and for investors trends and prices are vital, this project intends to analysis the Apple Stock Prices in time and predict an action to buy or not a single stock depending on its price, based on the price of the stock that will be minor or equal the third
+quartile of the rolling mean (12-month period). The features used for this prediction would be values of stocks of Apple closer competitors: Google, Microsoft, and Samsung, and other companies that are not considered competitors or related to the Apple line of business like, Disney Stock prices, Gold and Oil prices. This analysis is based on closing prices from 2014 to 2021. All Companies’ stock prices were highly correlated with the Apple Stock prices. Random Forest, KNeightbors and Logistic Regression were used to predict the buying action for Apple Stocks, the results for each of the models were similar, having an accuracy value of 0.98. These models will be reviewed.
+
+Question: May I know when to buy or not in a future an Apple Stock, based prices of closest competitors, oil prices, gold process, and Disney stock price?
+
+This project is made as a personal project to create an strategy for stock trading for the family and to complete the school work for the DSC680 All code is based on Jupyter Notebook and using Ptyhon as a main language
 
 
 
